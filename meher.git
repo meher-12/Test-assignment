@@ -1,0 +1,3 @@
+mkdir my git-project
+cd my-git-project
+git init
